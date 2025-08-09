@@ -27,7 +27,7 @@ By combining multiple satellite-derived burn severity metrics with M4 outputs, I
 
 **Repo Folder:** [`Satellite-Image-Analysis-OSU`](https://github.com/Reilly-Seeley/Geospatial-Work/tree/main/Satellite-Image-Analysis-OSU)  
 **Includes:**  
-- Graduate project report (`Project-Paper.pdf`)
+- Graduate project report (`[Project-Report-Paper.pdf](https://github.com/Reilly-Seeley/Geospatial-Work/blob/main/Satellite-Image-Analysis-OSU/M4_Wildfire_Project_Report.pdf)`)
 - Four GEE scripts for NDVI change, FIRMS active fire detections, CBI burn severity mapping, and NDSI snow analysis.
 - Usage and data disclaimers.
 
