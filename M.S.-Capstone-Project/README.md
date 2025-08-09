@@ -2,7 +2,7 @@
 
 This repository contains materials from my 2025 M.S. capstone project completed in the Geography & Geospatial Science Master's Degree Program at Oregon State University. The project was conducted in collaboration with the Mountain Rain or Snow (MRoS) citizen science initiative and focused on understanding the factors influencing long-term volunteer engagement in precipitation phase monitoring.
 
-**Full Paper (PDF):** [Seeley, R. (2025). *Characterizing Citizen Science Observer Engagement: Insights from the Colorado MRoS Study*](./SeeleyReillyJ2025.pdf)  
+**Full Paper (PDF):** [Seeley, R. (2025). *Characterizing Citizen Science Observer Engagement: Insights from the Colorado MRoS Study*](https://ir.library.oregonstate.edu/concern/graduate_projects/3n2047496)  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
