@@ -27,7 +27,7 @@ By combining multiple satellite-derived burn severity metrics with M4 outputs, I
 
 **Repo Folder:** [`Satellite-Image-Analysis-OSU`](https://github.com/Reilly-Seeley/Geospatial-Work/tree/main/Satellite-Image-Analysis-OSU)  
 **Includes:**  
-- Graduate project report [`Project-Report-Paper'](https://github.com/Reilly-Seeley/Geospatial-Work/blob/main/Satellite-Image-Analysis-OSU/M4_Wildfire_Project_Report.pdf)
+- Graduate project report
 - Four GEE scripts for NDVI change, FIRMS active fire detections, CBI burn severity mapping, and NDSI snow analysis.
 - Usage and data disclaimers.
 
@@ -45,9 +45,9 @@ Survey data and observation patterns were analyzed to identify behavioral and sp
 - Visualization of engagement metrics and survey results.
 - Integration of Theory of Planned Behavior constructs into citizen science research.
 
-**Repo Folder:** [`Capstone-Project`](./Capstone-Project)  
+**Repo Folder:** [`M.S.-Capstone-Project`](https://github.com/Reilly-Seeley/Geospatial-Work/tree/main/M.S.-Capstone-Project)  
 **Includes:**  
-- Full capstone project report (`SeeleyReillyJ2025.pdf`)
+- Full capstone project report
 - Zipped archive of 15 R scripts with documentation of purpose and usage.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
