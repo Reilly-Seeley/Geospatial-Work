@@ -1,4 +1,4 @@
-# Reilly Seeley — Graduate Research Portfolio
+# Reilly Seeley | Graduate Research Portfolio
 
 This Github Portfolio contains selected projects from my M.S. in Geography & Geospatial Science program at Oregon State University.  
 These works highlight the technical, analytical, and problem-solving skills I developed and applied throughout my graduate studies, including:
@@ -33,11 +33,11 @@ By combining multiple satellite-derived burn severity metrics with M4 outputs, I
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 2. M.S. Capstone Project — Citizen Science Observer Engagement in the Colorado MRoS Study
+### 2. M.S. Capstone Project - Citizen Science Observer Engagement in the Colorado MRoS Study
 This research was conducted in partnership with the NASA-Funded **Mountain Rain or Snow (MRoS)** Citizen Science Initiative (https://www.rainorsnow.org/home) and examined factors influencing long-term volunteer engagement in observer precipitation phase monitoring.  
 Survey data and observation patterns were analyzed to identify behavioral and spatial differences between highly active and less-engaged observers, with the goal of informing strategies to improve data continuity.
 
-**Core Finding:** Sustained participation over time — even at modest reporting frequencies — proved to be a stronger indicator of an engaged observer than high short-term activity. Both highly active and less-engaged participants shared similar survey attitudes and event reminder response rates, suggesting that the peak winter months, when precipitation phase monitoring is most relevant, present a key opportunity to reinforce engagement and extend active involvement.
+**Core Finding:** Sustained participation over time, even at modest reporting frequencies, proved to be a stronger indicator of an engaged observer than high short-term activity. Both highly active and less-engaged participants shared similar survey attitudes and event reminder response rates, suggesting that the peak winter months, when precipitation phase monitoring is most relevant, present a key opportunity to reinforce engagement and extend active involvement.
 
 **Key Applications:**
 - Advanced R programming for data cleaning, spatial analysis, and statistical testing.
