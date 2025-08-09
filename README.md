@@ -19,7 +19,7 @@ This project, completed in **GEOG 581: Satellite Image Analysis** and in collabo
 
 By combining multiple satellite-derived burn severity metrics with M4 outputs, I evaluated how a single wildfire-affected SNOTEL record can bias basin-scale streamflow predictions when post-fire snow dynamics diverge from pre-fire norms.
 
-**Key Skills Applied:**
+**Key Applications:**
 - Google Earth Engine scripting (JavaScript) for processing Landsat and MODIS imagery.
 - Integrating satellite indices (NDVI, NDSI) with model outputs.
 - Data masking, cloud removal, and composite creation.
